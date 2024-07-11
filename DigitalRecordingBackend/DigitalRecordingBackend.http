@@ -1,0 +1,6 @@
+@DigitalRecordingBackend_HostAddress = http://localhost:5259
+
+GET {{DigitalRecordingBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

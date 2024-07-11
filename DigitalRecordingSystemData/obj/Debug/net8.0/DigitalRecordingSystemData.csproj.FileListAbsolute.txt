@@ -1,0 +1,14 @@
+C:\Users\TMT\source\repos\DigitalRecordingBackend\DigitalRecordingSystemData\bin\Debug\net8.0\DigitalRecordingSystemData.deps.json
+C:\Users\TMT\source\repos\DigitalRecordingBackend\DigitalRecordingSystemData\bin\Debug\net8.0\DigitalRecordingSystemData.runtimeconfig.json
+C:\Users\TMT\source\repos\DigitalRecordingBackend\DigitalRecordingSystemData\bin\Debug\net8.0\DigitalRecordingSystemData.dll
+C:\Users\TMT\source\repos\DigitalRecordingBackend\DigitalRecordingSystemData\bin\Debug\net8.0\DigitalRecordingSystemData.pdb
+C:\Users\TMT\source\repos\DigitalRecordingBackend\DigitalRecordingSystemData\obj\Debug\net8.0\DigitalRecordingSystemData.csproj.AssemblyReference.cache
+C:\Users\TMT\source\repos\DigitalRecordingBackend\DigitalRecordingSystemData\obj\Debug\net8.0\DigitalRecordingSystemData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TMT\source\repos\DigitalRecordingBackend\DigitalRecordingSystemData\obj\Debug\net8.0\DigitalRecordingSystemData.AssemblyInfoInputs.cache
+C:\Users\TMT\source\repos\DigitalRecordingBackend\DigitalRecordingSystemData\obj\Debug\net8.0\DigitalRecordingSystemData.AssemblyInfo.cs
+C:\Users\TMT\source\repos\DigitalRecordingBackend\DigitalRecordingSystemData\obj\Debug\net8.0\DigitalRecordingSystemData.csproj.CoreCompileInputs.cache
+C:\Users\TMT\source\repos\DigitalRecordingBackend\DigitalRecordingSystemData\obj\Debug\net8.0\DigitalRecordingSystemData.dll
+C:\Users\TMT\source\repos\DigitalRecordingBackend\DigitalRecordingSystemData\obj\Debug\net8.0\refint\DigitalRecordingSystemData.dll
+C:\Users\TMT\source\repos\DigitalRecordingBackend\DigitalRecordingSystemData\obj\Debug\net8.0\DigitalRecordingSystemData.pdb
+C:\Users\TMT\source\repos\DigitalRecordingBackend\DigitalRecordingSystemData\obj\Debug\net8.0\DigitalRecordingSystemData.genruntimeconfig.cache
+C:\Users\TMT\source\repos\DigitalRecordingBackend\DigitalRecordingSystemData\obj\Debug\net8.0\ref\DigitalRecordingSystemData.dll

@@ -1,0 +1,296 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TMT\\source\\repos\\DigitalRecordingBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\TMT\\source\\repos\\DigitalRecordingBackend\\DigitalRecordingSystemData\\Migrations\\20240711125802_DigitalRecordingMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DigitalRecordingSystemData\\Migrations\\20240711125802_DigitalRecordingMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56BE063C-BFB3-4229-9EE4-FD01A5ACADBD}|DigitalRecordingSystemData\\DigitalRecordingSystemData.csproj|c:\\users\\tmt\\source\\repos\\digitalrecordingbackend\\digitalrecordingsystemdata\\migrations\\20240711125251_initialmigirations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56BE063C-BFB3-4229-9EE4-FD01A5ACADBD}|DigitalRecordingSystemData\\DigitalRecordingSystemData.csproj|solutionrelative:digitalrecordingsystemdata\\migrations\\20240711125251_initialmigirations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7975B83A-7EA0-4C0F-ACE7-0CF678B92A18}|DigitalRecordingBackend\\DigitalRecordingBackend.csproj|c:\\users\\tmt\\source\\repos\\digitalrecordingbackend\\digitalrecordingbackend\\controllers\\digitalrecordingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7975B83A-7EA0-4C0F-ACE7-0CF678B92A18}|DigitalRecordingBackend\\DigitalRecordingBackend.csproj|solutionrelative:digitalrecordingbackend\\controllers\\digitalrecordingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7975B83A-7EA0-4C0F-ACE7-0CF678B92A18}|DigitalRecordingBackend\\DigitalRecordingBackend.csproj|c:\\users\\tmt\\source\\repos\\digitalrecordingbackend\\digitalrecordingbackend\\digitalrecordingbackend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7975B83A-7EA0-4C0F-ACE7-0CF678B92A18}|DigitalRecordingBackend\\DigitalRecordingBackend.csproj|solutionrelative:digitalrecordingbackend\\digitalrecordingbackend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56BE063C-BFB3-4229-9EE4-FD01A5ACADBD}|DigitalRecordingSystemData\\DigitalRecordingSystemData.csproj|c:\\users\\tmt\\source\\repos\\digitalrecordingbackend\\digitalrecordingsystemdata\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56BE063C-BFB3-4229-9EE4-FD01A5ACADBD}|DigitalRecordingSystemData\\DigitalRecordingSystemData.csproj|solutionrelative:digitalrecordingsystemdata\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7975B83A-7EA0-4C0F-ACE7-0CF678B92A18}|DigitalRecordingBackend\\DigitalRecordingBackend.csproj|c:\\users\\tmt\\source\\repos\\digitalrecordingbackend\\digitalrecordingbackend\\services\\digitalrecordingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7975B83A-7EA0-4C0F-ACE7-0CF678B92A18}|DigitalRecordingBackend\\DigitalRecordingBackend.csproj|solutionrelative:digitalrecordingbackend\\services\\digitalrecordingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7975B83A-7EA0-4C0F-ACE7-0CF678B92A18}|DigitalRecordingBackend\\DigitalRecordingBackend.csproj|c:\\users\\tmt\\source\\repos\\digitalrecordingbackend\\digitalrecordingbackend\\services\\idigitalrecordingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7975B83A-7EA0-4C0F-ACE7-0CF678B92A18}|DigitalRecordingBackend\\DigitalRecordingBackend.csproj|solutionrelative:digitalrecordingbackend\\services\\idigitalrecordingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56BE063C-BFB3-4229-9EE4-FD01A5ACADBD}|DigitalRecordingSystemData\\DigitalRecordingSystemData.csproj|c:\\users\\tmt\\source\\repos\\digitalrecordingbackend\\digitalrecordingsystemdata\\repositories\\digitalrecordingsystemdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56BE063C-BFB3-4229-9EE4-FD01A5ACADBD}|DigitalRecordingSystemData\\DigitalRecordingSystemData.csproj|solutionrelative:digitalrecordingsystemdata\\repositories\\digitalrecordingsystemdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56BE063C-BFB3-4229-9EE4-FD01A5ACADBD}|DigitalRecordingSystemData\\DigitalRecordingSystemData.csproj|c:\\users\\tmt\\source\\repos\\digitalrecordingbackend\\digitalrecordingsystemdata\\repositories\\idigitalrecordingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56BE063C-BFB3-4229-9EE4-FD01A5ACADBD}|DigitalRecordingSystemData\\DigitalRecordingSystemData.csproj|solutionrelative:digitalrecordingsystemdata\\repositories\\idigitalrecordingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7975B83A-7EA0-4C0F-ACE7-0CF678B92A18}|DigitalRecordingBackend\\DigitalRecordingBackend.csproj|c:\\users\\tmt\\source\\repos\\digitalrecordingbackend\\digitalrecordingbackend\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7975B83A-7EA0-4C0F-ACE7-0CF678B92A18}|DigitalRecordingBackend\\DigitalRecordingBackend.csproj|solutionrelative:digitalrecordingbackend\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7975B83A-7EA0-4C0F-ACE7-0CF678B92A18}|DigitalRecordingBackend\\DigitalRecordingBackend.csproj|c:\\users\\tmt\\source\\repos\\digitalrecordingbackend\\digitalrecordingbackend\\dtos\\digitalrecordingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7975B83A-7EA0-4C0F-ACE7-0CF678B92A18}|DigitalRecordingBackend\\DigitalRecordingBackend.csproj|solutionrelative:digitalrecordingbackend\\dtos\\digitalrecordingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56BE063C-BFB3-4229-9EE4-FD01A5ACADBD}|DigitalRecordingSystemData\\DigitalRecordingSystemData.csproj|c:\\users\\tmt\\source\\repos\\digitalrecordingbackend\\digitalrecordingsystemdata\\models\\digitalrecordingmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56BE063C-BFB3-4229-9EE4-FD01A5ACADBD}|DigitalRecordingSystemData\\DigitalRecordingSystemData.csproj|solutionrelative:digitalrecordingsystemdata\\models\\digitalrecordingmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56BE063C-BFB3-4229-9EE4-FD01A5ACADBD}|DigitalRecordingSystemData\\DigitalRecordingSystemData.csproj|c:\\users\\tmt\\source\\repos\\digitalrecordingbackend\\digitalrecordingsystemdata\\migrations\\20240703144730_initialmigiration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56BE063C-BFB3-4229-9EE4-FD01A5ACADBD}|DigitalRecordingSystemData\\DigitalRecordingSystemData.csproj|solutionrelative:digitalrecordingsystemdata\\migrations\\20240703144730_initialmigiration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56BE063C-BFB3-4229-9EE4-FD01A5ACADBD}|DigitalRecordingSystemData\\DigitalRecordingSystemData.csproj|c:\\users\\tmt\\source\\repos\\digitalrecordingbackend\\digitalrecordingsystemdata\\digitalrecordingsystemdata.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{56BE063C-BFB3-4229-9EE4-FD01A5ACADBD}|DigitalRecordingSystemData\\DigitalRecordingSystemData.csproj|solutionrelative:digitalrecordingsystemdata\\digitalrecordingsystemdata.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7975B83A-7EA0-4C0F-ACE7-0CF678B92A18}|DigitalRecordingBackend\\DigitalRecordingBackend.csproj|c:\\users\\tmt\\source\\repos\\digitalrecordingbackend\\digitalrecordingbackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7975B83A-7EA0-4C0F-ACE7-0CF678B92A18}|DigitalRecordingBackend\\DigitalRecordingBackend.csproj|solutionrelative:digitalrecordingbackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7975B83A-7EA0-4C0F-ACE7-0CF678B92A18}|DigitalRecordingBackend\\DigitalRecordingBackend.csproj|c:\\users\\tmt\\source\\repos\\digitalrecordingbackend\\digitalrecordingbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7975B83A-7EA0-4C0F-ACE7-0CF678B92A18}|DigitalRecordingBackend\\DigitalRecordingBackend.csproj|solutionrelative:digitalrecordingbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 274,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240711125802_DigitalRecordingMigration.cs",
+              "DocumentMoniker": "C:\\Users\\TMT\\source\\repos\\DigitalRecordingBackend\\DigitalRecordingSystemData\\Migrations\\20240711125802_DigitalRecordingMigration.cs",
+              "RelativeDocumentMoniker": "DigitalRecordingSystemData\\Migrations\\20240711125802_DigitalRecordingMigration.cs",
+              "ToolTip": "C:\\Users\\TMT\\source\\repos\\DigitalRecordingBackend\\DigitalRecordingSystemData\\Migrations\\20240711125802_DigitalRecordingMigration.cs",
+              "RelativeToolTip": "DigitalRecordingSystemData\\Migrations\\20240711125802_DigitalRecordingMigration.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T12:58:02.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20240711125251_initialmigirations.cs",
+              "DocumentMoniker": "C:\\Users\\TMT\\source\\repos\\DigitalRecordingBackend\\DigitalRecordingSystemData\\Migrations\\20240711125251_initialmigirations.cs",
+              "RelativeDocumentMoniker": "DigitalRecordingSystemData\\Migrations\\20240711125251_initialmigirations.cs",
+              "ToolTip": "C:\\Users\\TMT\\source\\repos\\DigitalRecordingBackend\\DigitalRecordingSystemData\\Migrations\\20240711125251_initialmigirations.cs",
+              "RelativeToolTip": "DigitalRecordingSystemData\\Migrations\\20240711125251_initialmigirations.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T12:52:52.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DigitalRecordingController.cs",
+              "DocumentMoniker": "C:\\Users\\TMT\\source\\repos\\DigitalRecordingBackend\\DigitalRecordingBackend\\Controllers\\DigitalRecordingController.cs",
+              "RelativeDocumentMoniker": "DigitalRecordingBackend\\Controllers\\DigitalRecordingController.cs",
+              "ToolTip": "C:\\Users\\TMT\\source\\repos\\DigitalRecordingBackend\\DigitalRecordingBackend\\Controllers\\DigitalRecordingController.cs",
+              "RelativeToolTip": "DigitalRecordingBackend\\Controllers\\DigitalRecordingController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T14:52:47.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DigitalRecordingSystemData.cs",
+              "DocumentMoniker": "C:\\Users\\TMT\\source\\repos\\DigitalRecordingBackend\\DigitalRecordingSystemData\\Repositories\\DigitalRecordingSystemData.cs",
+              "RelativeDocumentMoniker": "DigitalRecordingSystemData\\Repositories\\DigitalRecordingSystemData.cs",
+              "ToolTip": "C:\\Users\\TMT\\source\\repos\\DigitalRecordingBackend\\DigitalRecordingSystemData\\Repositories\\DigitalRecordingSystemData.cs",
+              "RelativeToolTip": "DigitalRecordingSystemData\\Repositories\\DigitalRecordingSystemData.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAA2wAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T14:33:00.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IDigitalRecordingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\TMT\\source\\repos\\DigitalRecordingBackend\\DigitalRecordingSystemData\\Repositories\\IDigitalRecordingRepository.cs",
+              "RelativeDocumentMoniker": "DigitalRecordingSystemData\\Repositories\\IDigitalRecordingRepository.cs",
+              "ToolTip": "C:\\Users\\TMT\\source\\repos\\DigitalRecordingBackend\\DigitalRecordingSystemData\\Repositories\\IDigitalRecordingRepository.cs",
+              "RelativeToolTip": "DigitalRecordingSystemData\\Repositories\\IDigitalRecordingRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T14:33:01.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\TMT\\source\\repos\\DigitalRecordingBackend\\DigitalRecordingBackend\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "DigitalRecordingBackend\\Middleware\\ExceptionMiddleware.cs",
+              "ToolTip": "C:\\Users\\TMT\\source\\repos\\DigitalRecordingBackend\\DigitalRecordingBackend\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "DigitalRecordingBackend\\Middleware\\ExceptionMiddleware.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T12:36:44.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\TMT\\source\\repos\\DigitalRecordingBackend\\DigitalRecordingSystemData\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "DigitalRecordingSystemData\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\TMT\\source\\repos\\DigitalRecordingBackend\\DigitalRecordingSystemData\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "DigitalRecordingSystemData\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAiwAkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T14:32:57.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DigitalRecordingBackend.csproj",
+              "DocumentMoniker": "C:\\Users\\TMT\\source\\repos\\DigitalRecordingBackend\\DigitalRecordingBackend\\DigitalRecordingBackend.csproj",
+              "RelativeDocumentMoniker": "DigitalRecordingBackend\\DigitalRecordingBackend.csproj",
+              "ToolTip": "C:\\Users\\TMT\\source\\repos\\DigitalRecordingBackend\\DigitalRecordingBackend\\DigitalRecordingBackend.csproj",
+              "RelativeToolTip": "DigitalRecordingBackend\\DigitalRecordingBackend.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-03T14:20:57.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IDigitalRecordingService.cs",
+              "DocumentMoniker": "C:\\Users\\TMT\\source\\repos\\DigitalRecordingBackend\\DigitalRecordingBackend\\Services\\IDigitalRecordingService.cs",
+              "RelativeDocumentMoniker": "DigitalRecordingBackend\\Services\\IDigitalRecordingService.cs",
+              "ToolTip": "C:\\Users\\TMT\\source\\repos\\DigitalRecordingBackend\\DigitalRecordingBackend\\Services\\IDigitalRecordingService.cs",
+              "RelativeToolTip": "DigitalRecordingBackend\\Services\\IDigitalRecordingService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T12:38:49.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DigitalRecordingService.cs",
+              "DocumentMoniker": "C:\\Users\\TMT\\source\\repos\\DigitalRecordingBackend\\DigitalRecordingBackend\\Services\\DigitalRecordingService.cs",
+              "RelativeDocumentMoniker": "DigitalRecordingBackend\\Services\\DigitalRecordingService.cs",
+              "ToolTip": "C:\\Users\\TMT\\source\\repos\\DigitalRecordingBackend\\DigitalRecordingBackend\\Services\\DigitalRecordingService.cs",
+              "RelativeToolTip": "DigitalRecordingBackend\\Services\\DigitalRecordingService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T05:50:41.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DigitalRecordingDto.cs",
+              "DocumentMoniker": "C:\\Users\\TMT\\source\\repos\\DigitalRecordingBackend\\DigitalRecordingBackend\\DTOs\\DigitalRecordingDto.cs",
+              "RelativeDocumentMoniker": "DigitalRecordingBackend\\DTOs\\DigitalRecordingDto.cs",
+              "ToolTip": "C:\\Users\\TMT\\source\\repos\\DigitalRecordingBackend\\DigitalRecordingBackend\\DTOs\\DigitalRecordingDto.cs",
+              "RelativeToolTip": "DigitalRecordingBackend\\DTOs\\DigitalRecordingDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T12:35:02.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20240703144730_initialmigiration.cs",
+              "DocumentMoniker": "C:\\Users\\TMT\\source\\repos\\DigitalRecordingBackend\\DigitalRecordingSystemData\\Migrations\\20240703144730_initialmigiration.cs",
+              "RelativeDocumentMoniker": "DigitalRecordingSystemData\\Migrations\\20240703144730_initialmigiration.cs",
+              "ToolTip": "C:\\Users\\TMT\\source\\repos\\DigitalRecordingBackend\\DigitalRecordingSystemData\\Migrations\\20240703144730_initialmigiration.cs",
+              "RelativeToolTip": "DigitalRecordingSystemData\\Migrations\\20240703144730_initialmigiration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T14:47:31.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DigitalRecordingModel.cs",
+              "DocumentMoniker": "C:\\Users\\TMT\\source\\repos\\DigitalRecordingBackend\\DigitalRecordingSystemData\\Models\\DigitalRecordingModel.cs",
+              "RelativeDocumentMoniker": "DigitalRecordingSystemData\\Models\\DigitalRecordingModel.cs",
+              "ToolTip": "C:\\Users\\TMT\\source\\repos\\DigitalRecordingBackend\\DigitalRecordingSystemData\\Models\\DigitalRecordingModel.cs",
+              "RelativeToolTip": "DigitalRecordingSystemData\\Models\\DigitalRecordingModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T14:32:59.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\TMT\\source\\repos\\DigitalRecordingBackend\\DigitalRecordingBackend\\appsettings.json",
+              "RelativeDocumentMoniker": "DigitalRecordingBackend\\appsettings.json",
+              "ToolTip": "C:\\Users\\TMT\\source\\repos\\DigitalRecordingBackend\\DigitalRecordingBackend\\appsettings.json",
+              "RelativeToolTip": "DigitalRecordingBackend\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-03T14:36:28.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TMT\\source\\repos\\DigitalRecordingBackend\\DigitalRecordingBackend\\Program.cs",
+              "RelativeDocumentMoniker": "DigitalRecordingBackend\\Program.cs",
+              "ToolTip": "C:\\Users\\TMT\\source\\repos\\DigitalRecordingBackend\\DigitalRecordingBackend\\Program.cs",
+              "RelativeToolTip": "DigitalRecordingBackend\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T14:27:48.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DigitalRecordingSystemData.csproj",
+              "DocumentMoniker": "C:\\Users\\TMT\\source\\repos\\DigitalRecordingBackend\\DigitalRecordingSystemData\\DigitalRecordingSystemData.csproj",
+              "RelativeDocumentMoniker": "DigitalRecordingSystemData\\DigitalRecordingSystemData.csproj",
+              "ToolTip": "C:\\Users\\TMT\\source\\repos\\DigitalRecordingBackend\\DigitalRecordingSystemData\\DigitalRecordingSystemData.csproj",
+              "RelativeToolTip": "DigitalRecordingSystemData\\DigitalRecordingSystemData.csproj",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-03T14:20:26.614Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
